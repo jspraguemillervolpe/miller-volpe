@@ -1,0 +1,23 @@
+
+body.home{
+
+background: $color__background-home;
+color: $color__text-home;
+
+h1{
+	color:$color__heading-home;
+	font-size: 5em;
+
+}
+
+
+a{
+	color:$color__text-link;
+		&:hover{
+		color: $color__link-hover;
+		}
+}
+
+
+}
+

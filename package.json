@@ -1,0 +1,30 @@
+{
+  "name": "millervolpe2016",
+  "version": "1.0.0",
+  "description": "Our company's new theme",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jspraguemillervolpe/miller-volpe.git"
+  },
+  "keywords": [
+    "miller",
+    "volpe"
+  ],
+  "author": "Jason Sprague",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jspraguemillervolpe/miller-volpe/issues"
+  },
+  "homepage": "https://github.com/jspraguemillervolpe/miller-volpe#readme",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-contrib-sass": "^1.0.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "dependencies": {}
+}
